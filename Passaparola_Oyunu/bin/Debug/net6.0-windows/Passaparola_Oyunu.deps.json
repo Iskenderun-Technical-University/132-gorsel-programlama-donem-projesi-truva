@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Passaparola_Oyunu/1.0.0": {
+        "runtime": {
+          "Passaparola_Oyunu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passaparola_Oyunu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
