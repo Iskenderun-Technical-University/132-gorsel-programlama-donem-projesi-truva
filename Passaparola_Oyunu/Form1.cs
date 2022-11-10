@@ -25,7 +25,7 @@ namespace Passaparola_Oyunu
                 switch(soruno)
                 {
                     case 1:
-                        if(textBox1.Text == "akdeniz")
+                        if (textBox1.Text == "akdeniz")
                         {
                             button1.BackColor = Color.Green;
                             dogru++;
@@ -35,12 +35,58 @@ namespace Passaparola_Oyunu
                         {
                             button1.BackColor = Color.Red;
                             yanlis++;
-                           
+
                             label4.Text = yanlis.ToString();
                         }
                         break;
-                        
-                   
+
+                    case 2:
+                        if (textBox1.Text == "bursa")
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+
+                    case 3:
+                        if (textBox1.Text == "cuma")
+                        {
+                            button3.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button3.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 4:
+                        if (textBox1.Text == "diyarbakýr")
+                        {
+                            button4.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+
+                        }
+                        else
+                        {
+                            button4.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+
+
 
 
                 }
@@ -63,7 +109,22 @@ namespace Passaparola_Oyunu
                 richTextBox1.Text = "Ülkemizin güney kýsmýndaki kýyý bölgeleri";
                 button1.BackColor = Color.Yellow;
             }
-          
+            if (soruno == 2)
+            {
+                richTextBox1.Text = "Yeþilliðiyle ünlü Marmara ilimiz";
+                button2.BackColor = Color.Yellow;
+            }
+            if (soruno == 3)
+            {
+                richTextBox1.Text = "Müslümanlarýn kutlsal günü";
+                button3.BackColor = Color.Yellow;
+            }
+            if (soruno == 4)
+            {
+                richTextBox1.Text = "Karpuzuyla Ünlü Ýlimiz";
+                button4.BackColor = Color.Yellow;
+            }
+
 
         }
     }
