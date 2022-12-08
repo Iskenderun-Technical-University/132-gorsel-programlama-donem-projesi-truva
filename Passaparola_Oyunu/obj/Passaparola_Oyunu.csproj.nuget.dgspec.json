@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Proje Klasörü\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj": {}
+    "C:\\Users\\ZENGiN\\Desktop\\odev\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj": {}
   },
   "projects": {
-    "E:\\Proje Klasörü\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj": {
+    "C:\\Users\\ZENGiN\\Desktop\\odev\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proje Klasörü\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj",
+        "projectUniqueName": "C:\\Users\\ZENGiN\\Desktop\\odev\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj",
         "projectName": "Passaparola_Oyunu",
-        "projectPath": "E:\\Proje Klasörü\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj",
-        "packagesPath": "C:\\Users\\İskender\\.nuget\\packages\\",
-        "outputPath": "E:\\Proje Klasörü\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\obj\\",
+        "projectPath": "C:\\Users\\ZENGiN\\Desktop\\odev\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj",
+        "packagesPath": "C:\\Users\\ZENGiN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZENGiN\\Desktop\\odev\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\İskender\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ZENGiN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -45,20 +45,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }
