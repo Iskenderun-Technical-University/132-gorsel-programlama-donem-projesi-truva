@@ -25,7 +25,7 @@ namespace Passaparola_Oyunu
                 switch(soruno)
                 {
                     case 1:
-                        if (textBox1.Text == "akdeniz")
+                        if (textBox1.Text == "adana")
                         {
                             button1.BackColor = Color.Green;
                             dogru++;
@@ -41,7 +41,7 @@ namespace Passaparola_Oyunu
                         break;
 
                     case 2:
-                        if (textBox1.Text == "bursa")
+                        if (textBox1.Text == "býçak")
                         {
                             button2.BackColor = Color.Green;
                             dogru++;
@@ -71,7 +71,7 @@ namespace Passaparola_Oyunu
                         }
                         break;
                     case 4:
-                        if (textBox1.Text == "diyarbakýr")
+                        if (textBox1.Text == "delik deþik olursun")
                         {
                             button4.BackColor = Color.Green;
                             dogru++;
@@ -86,7 +86,7 @@ namespace Passaparola_Oyunu
                         }
                         break;
                     case 5:
-                        if (textBox1.Text == "eski")
+                        if (textBox1.Text == "eywallah")
                         {
                             button5.BackColor = Color.Green;
                             dogru++;
@@ -102,7 +102,7 @@ namespace Passaparola_Oyunu
                         break;
 
                     case 6:
-                        if (textBox1.Text == "ferman")
+                        if (textBox1.Text == "falaka")
                         {
                             button6.BackColor = Color.Green;
                             dogru++;
@@ -131,7 +131,7 @@ namespace Passaparola_Oyunu
                         }
                         break;
                     case 8:
-                        if (textBox1.Text == "")
+                        if (textBox1.Text =="hayatýný")
 
                         {
                             button2.BackColor = Color.Green;
@@ -145,7 +145,246 @@ namespace Passaparola_Oyunu
                             label4.Text = yanlis.ToString();
                         }
                         break;
+                    case 9:
+                        if (textBox1.Text == "ýslýkla")
 
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 10:
+                        if (textBox1.Text == "insan")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 11:
+                        if (textBox1.Text == "joker")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 12:
+                        if (textBox1.Text == "kundakta")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 13:
+                        if (textBox1.Text == "lama")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 14:
+                        if (textBox1.Text == "mangal")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 15:
+                        if (textBox1.Text == "nonoþ")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 16:
+                        if (textBox1.Text == "operasyon")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 17:
+                        if (textBox1.Text == "pýçak")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 18:
+                        if (textBox1.Text == "roketatar")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 19:
+                        if (textBox1.Text == "sýrtlan")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 20:
+                        if (textBox1.Text == "tofaþ")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 21:
+                        if (textBox1.Text == "uruguay")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 22:
+                        if (textBox1.Text == "valorant")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 23:
+                        if (textBox1.Text == "yürüyen uçak")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
+                    case 24:
+                        if (textBox1.Text == "zonguldak")
+
+                        {
+                            button2.BackColor = Color.Green;
+                            dogru++;
+                            label2.Text = dogru.ToString();
+                        }
+                        else
+                        {
+                            button2.BackColor = Color.Red;
+                            yanlis++;
+                            label4.Text = yanlis.ToString();
+                        }
+                        break;
 
 
 
@@ -166,42 +405,127 @@ namespace Passaparola_Oyunu
 
             if (soruno == 1)
             {
-                richTextBox1.Text = "Ülkemizin güney kýsmýndaki kýyý bölgeleri";
+                richTextBox1.Text = "Türkiyenin En Tehlikeli Þehri";
                 button1.BackColor = Color.Yellow;
             }
             if (soruno == 2)
             {
-                richTextBox1.Text = "Yeþilliðiyle ünlü Marmara ilimiz";
+                richTextBox1.Text = "Adana'da En Çok Kullanýlan Alet";
                 button2.BackColor = Color.Yellow;
             }
             if (soruno == 3)
             {
-                richTextBox1.Text = "Müslümanlarýn kutlsal günü";
+                richTextBox1.Text = "Adana'da Kavgalarýn Durduðu Gün";
                 button3.BackColor = Color.Yellow;
             }
             if (soruno == 4)
             {
-                richTextBox1.Text = "Karpuzuyla Ünlü Ýlimiz";
+                richTextBox1.Text = "Adanalýya Ne Bakýyon Dersen Ne Olur";
                 button4.BackColor = Color.Yellow;
             }
             if (soruno == 5)
             {
-                richTextBox1.Text = "Yeni kelimesiniz zýt anlamý";
+                richTextBox1.Text = "Adana'da Saol Kelimesinin Karþýlýðý";
                 button5.BackColor = Color.Yellow;
             }
             if (soruno == 6)
             {
-                richTextBox1.Text = "Padiþahýn emirlerinin yazýlý hali";
+                richTextBox1.Text = "Adana'da Adamý Neye Yatýrýlar";
                 button6.BackColor = Color.Yellow;
             }
             if (soruno == 7)
             {
-                richTextBox1.Text = "Dünyanýn ýsý kaynaðý";
+                richTextBox1.Text = "Adana'da Sýcaktan Neye Ateþ Edilmiþtir";
                 button7.BackColor = Color.Yellow;
             }
             if (soruno == 8)
             {
-                richTextBox1.Text = "Öðrencilerin kötü karne getirince bakýþtýðý nesne";
+                richTextBox1.Text = "Adana'da Öðrencilerin kötü karne getirince neyi kaybedersin";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 9)
+            {
+                richTextBox1.Text = "Adana'da insanlar nasýl haberleþir";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 10)
+            {
+                richTextBox1.Text = "Adana'daki en tehlikeli madde ";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 11)
+            {
+                richTextBox1.Text = "Adana'da dogan DC Ünlüsü";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 12)
+            {
+                richTextBox1.Text = "Adana'da Eðitim Ne Zaman Baþlar";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 13)
+            {
+                richTextBox1.Text = "En Çok tüküren hayvan ";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 14)
+            {
+                richTextBox1.Text = "Adana'da insanlar caný sýkýlýnca ne yapar";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 15)
+            {
+                richTextBox1.Text = "Adana'da yumuþak erkeklere ne denir";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 16)
+            {
+                richTextBox1.Text = "Adana'da ölümle sonuçlanan durum";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 17)
+            {
+                richTextBox1.Text = "Adana'da her þafakta yapýlan þey";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 18)
+            {
+                richTextBox1.Text = "Adana'da býçaðýn diger ismi";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 19)
+            {
+                richTextBox1.Text = "Adana'da kavgada kullanýlan en büyük silah";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 20)
+            {
+                richTextBox1.Text = "Adana'da beslenen en garip hayvan";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 21)
+            {
+                richTextBox1.Text = "Adana'da en çok binilen araba markasý";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 22)
+            {
+                richTextBox1.Text = "Dünya'nýn en güzel kýzlarýnýn bulundugu ülke";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 23)
+            {
+                richTextBox1.Text = "Türkiye'de en çok oynanan Pc Oyunu ";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 24)
+            {
+                richTextBox1.Text = "Adana'da RECEP TAYYÝP ERDOGAN'ýn sordugu neyi baþarmak istersin sorusuna çocugun verdiði cevap";
+                button8.BackColor = Color.Yellow;
+            }
+            if (soruno == 25)
+            {
+                richTextBox1.Text = "Türkiyede Kömürün Çok Çýktýðý þehir";
                 button8.BackColor = Color.Yellow;
             }
 
