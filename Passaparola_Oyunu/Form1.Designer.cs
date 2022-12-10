@@ -104,7 +104,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(65, 39);
             this.button4.TabIndex = 3;
-            this.button4.Text = "Y";
+            this.button4.Text = "D";
             this.button4.UseVisualStyleBackColor = true;
             // 
             // button5
@@ -307,6 +307,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.BackColor = System.Drawing.Color.Transparent;
             this.groupBox1.Controls.Add(this.richTextBox1);
             this.groupBox1.Enabled = false;
             this.groupBox1.Location = new System.Drawing.Point(664, 188);
@@ -317,6 +318,7 @@
             // 
             // CEVAP
             // 
+            this.CEVAP.BackColor = System.Drawing.Color.Transparent;
             this.CEVAP.Controls.Add(this.linkLabel1);
             this.CEVAP.Controls.Add(this.textBox1);
             this.CEVAP.Location = new System.Drawing.Point(664, 335);
@@ -329,9 +331,11 @@
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
+            this.linkLabel1.BackColor = System.Drawing.Color.Red;
             this.linkLabel1.Font = new System.Drawing.Font("Corbel", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.linkLabel1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.linkLabel1.LinkColor = System.Drawing.Color.Black;
-            this.linkLabel1.Location = new System.Drawing.Point(140, 69);
+            this.linkLabel1.Location = new System.Drawing.Point(140, 59);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(68, 29);
             this.linkLabel1.TabIndex = 0;
@@ -349,6 +353,7 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.BackColor = System.Drawing.Color.Transparent;
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Controls.Add(this.label2);
@@ -363,6 +368,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Corbel", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label4.ForeColor = System.Drawing.Color.White;
             this.label4.Location = new System.Drawing.Point(332, 33);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(25, 29);
@@ -373,6 +379,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Corbel", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(246, 33);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(80, 29);
@@ -383,6 +390,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Corbel", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(140, 33);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(25, 29);
@@ -393,6 +401,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Corbel", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(60, 36);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(74, 26);
@@ -401,6 +410,7 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(441, 12);
             this.pictureBox1.Name = "pictureBox1";
@@ -413,6 +423,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.IndianRed;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1229, 598);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.groupBox2);

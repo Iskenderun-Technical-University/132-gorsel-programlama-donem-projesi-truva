@@ -52,3 +52,39 @@ E:\Proje Klasörü\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\
 E:\Proje Klasörü\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.pdb
 E:\Proje Klasörü\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.genruntimeconfig.cache
 E:\Proje Klasörü\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\ref\Passaparola_Oyunu.dll
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\bin\Debug\net6.0-windows\Passaparola_Oyunu.exe
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\bin\Debug\net6.0-windows\Passaparola_Oyunu.deps.json
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\bin\Debug\net6.0-windows\Passaparola_Oyunu.runtimeconfig.json
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\bin\Debug\net6.0-windows\Passaparola_Oyunu.dll
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\bin\Debug\net6.0-windows\Passaparola_Oyunu.pdb
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.csproj.AssemblyReference.cache
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.Form1.resources
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.Properties.Resources.resources
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.csproj.GenerateResource.cache
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.AssemblyInfoInputs.cache
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.AssemblyInfo.cs
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.dll
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\refint\Passaparola_Oyunu.dll
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.pdb
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.genruntimeconfig.cache
+C:\Users\akici\Desktop\düzeltme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\ref\Passaparola_Oyunu.dll
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\bin\Debug\net6.0-windows\Passaparola_Oyunu.exe
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\bin\Debug\net6.0-windows\Passaparola_Oyunu.deps.json
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\bin\Debug\net6.0-windows\Passaparola_Oyunu.runtimeconfig.json
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\bin\Debug\net6.0-windows\Passaparola_Oyunu.dll
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\bin\Debug\net6.0-windows\Passaparola_Oyunu.pdb
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.csproj.AssemblyReference.cache
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.Form1.resources
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.Properties.Resources.resources
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.csproj.GenerateResource.cache
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.AssemblyInfoInputs.cache
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.AssemblyInfo.cs
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.dll
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\refint\Passaparola_Oyunu.dll
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.pdb
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\Passaparola_Oyunu.genruntimeconfig.cache
+C:\Users\akici\Desktop\deneme\132-gorsel-programlama-donem-projesi-truva\Passaparola_Oyunu\obj\Debug\net6.0-windows\ref\Passaparola_Oyunu.dll
