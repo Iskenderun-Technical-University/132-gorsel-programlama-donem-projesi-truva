@@ -104,7 +104,7 @@ namespace Passaparola_Oyunu
                         break;
 
                     case 6:
-                        if (textBox1.Text == "Fil")
+                        if (textBox1.Text == "Fare")
                         {
                             button6.BackColor = Color.Green;
                             dogru++;
@@ -133,7 +133,7 @@ namespace Passaparola_Oyunu
                         }
                         break;
                     case 8:
-                        if (textBox1.Text == "Havlu")
+                        if (textBox1.Text == "Hayatým")
 
                         {
                             button2.BackColor = Color.Green;
@@ -178,7 +178,7 @@ namespace Passaparola_Oyunu
                         }
                         break;
                     case 11:
-                        if (textBox1.Text == ".....")
+                        if (textBox1.Text == "Jandarma")
 
                         {
                             button2.BackColor = Color.Green;
@@ -432,7 +432,7 @@ namespace Passaparola_Oyunu
             }
             if (soruno == 6)
             {
-                richTextBox1.Text = "Burnu kuyruðundan uzun olan hayvan hangisidir?";
+                richTextBox1.Text = "Kanalizasyonda yaþayan büyük kulaklý hayvan?";
                 button6.BackColor = Color.Yellow;
             }
             if (soruno == 7)
@@ -442,7 +442,7 @@ namespace Passaparola_Oyunu
             }
             if (soruno == 8)
             {
-                richTextBox1.Text = "Kurudukça daha çok ýslatýlan þey nedir?";
+                richTextBox1.Text = "Yolunda gitmeyen tek þey ?";
                 button8.BackColor = Color.Yellow;
             }
             if (soruno == 9)
@@ -457,7 +457,7 @@ namespace Passaparola_Oyunu
             }
             if (soruno == 11)
             {
-                richTextBox1.Text = "......";
+                richTextBox1.Text = "Köydeki emniyet kuvveti bölümü ?";
                 button8.BackColor = Color.Yellow;
             }
             if (soruno == 12)

@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\akici\\.nuget\\packages\\": {}
+    "C:\\Users\\İskender\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akici\\Desktop\\deneme\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj",
+      "projectUniqueName": "E:\\PROJE\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj",
       "projectName": "Passaparola_Oyunu",
-      "projectPath": "C:\\Users\\akici\\Desktop\\deneme\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj",
-      "packagesPath": "C:\\Users\\akici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akici\\Desktop\\deneme\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\obj\\",
+      "projectPath": "E:\\PROJE\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\Passaparola_Oyunu.csproj",
+      "packagesPath": "C:\\Users\\İskender\\.nuget\\packages\\",
+      "outputPath": "E:\\PROJE\\132-gorsel-programlama-donem-projesi-truva\\Passaparola_Oyunu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\akici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\İskender\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
