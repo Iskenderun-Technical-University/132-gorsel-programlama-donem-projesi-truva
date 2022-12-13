@@ -18,16 +18,21 @@ namespace Passaparola_Oyunu
         {
 
         }
+        //
         int soruno = 0, dogru = 0, yanlis = 0;
 
         private void textBox1_KeyDown(object sender, KeyEventArgs e)
-        {
+        {   
+            //
             if(e.KeyCode == Keys.Enter)
             {
                 switch(soruno)
                 {
+                    // if kýsmýnda cevabýn karþýlaþtýrmasý yapýlýr ve cevabýn dogru olmasý durumunda if bloguna girilir,  dogru sayýsý 1 arttýrýlýr ve kutucuk yeþile boyanýr
+                    // olmasý durumunda kutucuk yeþile döner ve dogru sayýsý 1 arttýrýlýr
+                    //cevabýn yanlýþ olmasý durumunda else bloguna girilir ,kutucuk kýrmýzýya boyanýr ve yanlýþ sayýsý 1 artttýrýlýr
                     case 1:
-                        if (textBox1.Text == "Ay")
+                        if (textBox1.Text == "Avanos")
                         {
                             button1.BackColor = Color.Green;
                             dogru++;
@@ -43,7 +48,7 @@ namespace Passaparola_Oyunu
                         break;
 
                     case 2:
-                        if (textBox1.Text == "Bezelye")
+                        if (textBox1.Text == "Buse")
                         {
                             button2.BackColor = Color.Green;
                             dogru++;
@@ -59,7 +64,7 @@ namespace Passaparola_Oyunu
                         break;
 
                     case 3:
-                        if (textBox1.Text == "Ceptelefonu")
+                        if (textBox1.Text == "Chp")
                         {
                             button3.BackColor = Color.Green;
                             dogru++;
@@ -88,7 +93,7 @@ namespace Passaparola_Oyunu
                         }
                         break;
                     case 5:
-                        if (textBox1.Text == "Elma")
+                        if (textBox1.Text == "Egoizm")
                         {
                             button5.BackColor = Color.Green;
                             dogru++;
@@ -119,7 +124,7 @@ namespace Passaparola_Oyunu
                         }
                         break;
                     case 7:
-                        if (textBox1.Text == "Gazete")
+                        if (textBox1.Text == "Ganyan")
                         {
                             button7.BackColor = Color.Green;
                             dogru++;
@@ -163,7 +168,7 @@ namespace Passaparola_Oyunu
                         }
                         break;
                     case 10:
-                        if (textBox1.Text == "Ýtfaiye")
+                        if (textBox1.Text == "Ýris")
 
                         {
                             button2.BackColor = Color.Green;
@@ -268,7 +273,7 @@ namespace Passaparola_Oyunu
                         }
                         break;
                     case 17:
-                        if (textBox1.Text == "Pazar")
+                        if (textBox1.Text == "Periskop")
 
                         {
                             button2.BackColor = Color.Green;
@@ -313,7 +318,7 @@ namespace Passaparola_Oyunu
                         }
                         break;
                     case 20:
-                        if (textBox1.Text == "Trafik polisi")
+                        if (textBox1.Text == "Talim")
 
                         {
                             button2.BackColor = Color.Green;
@@ -400,24 +405,27 @@ namespace Passaparola_Oyunu
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
+        {   //Bir sonraki  soruya geçmek için soru sayýsý arttýrýlýr
             linkLabel1.Text = "Sonraki";
             soruno++;
+            //Soru ekrana bastýrýlýr
             this.Text = soruno.ToString();
 
+            //Sorular Sýrasýyla ekrana getirilir ve sonraki butonuna týklandýgýnda diger soruya geçilir
             if (soruno == 1)
             {
-                richTextBox1.Text = "Buzda geyik yanaðý yatar.";
+                richTextBox1.Text = "Nevþehir'in Çömlek yapýmýyla ünlü ilçesi?";
+                //
                 button1.BackColor = Color.Yellow;
             }
             if (soruno == 2)
             {
-                richTextBox1.Text = "Ev ikiye yarýlmýþ, etrafa boncuklar saçýlmýþ";
+                richTextBox1.Text = "Eski dilde öpücük manasýna gelen isim?";
                 button2.BackColor = Color.Yellow;
             }
             if (soruno == 3)
             {
-                richTextBox1.Text = "Ben iki özleyenin arasýnda dururum. Onlarý istedikleri yerde konuþtururum.";
+                richTextBox1.Text = "1923'de Mustafa Kemal tarafýndan kurulan siyasi parti?";
                 button3.BackColor = Color.Yellow;
             }
             if (soruno == 4)
@@ -427,7 +435,7 @@ namespace Passaparola_Oyunu
             }
             if (soruno == 5)
             {
-                richTextBox1.Text = "Dilberin yanaðýdýr, temmuz ayý çaðýdýr, vatanýný sorarsan, Amasya’nýn baðýdýr.?";
+                richTextBox1.Text = "Bireysel çýkarlarýn, baþkalarýnýn çýkarlarýndan üstün tutulmasý?";
                 button5.BackColor = Color.Yellow;
             }
             if (soruno == 6)
@@ -437,7 +445,7 @@ namespace Passaparola_Oyunu
             }
             if (soruno == 7)
             {
-                richTextBox1.Text = "Her gün yeniden doðar, dünyaya haber yayar.";
+                richTextBox1.Text = "At yarýþlarýnda kazanan at.";
                 button7.BackColor = Color.Yellow;
             }
             if (soruno == 8)
@@ -452,7 +460,7 @@ namespace Passaparola_Oyunu
             }
             if (soruno == 10)
             {
-                richTextBox1.Text = "Ateþ olmayan yerde ne olmaz ? ";
+                richTextBox1.Text = "Gözüm renkli kýsmý? ";
                 button8.BackColor = Color.Yellow;
             }
             if (soruno == 11)
@@ -487,7 +495,7 @@ namespace Passaparola_Oyunu
             }
             if (soruno == 17)
             {
-                richTextBox1.Text = "Günlerin padiþahý, haftalarýn þahý, uzatýr bacaklarý, dinletir ayaklarý";
+                richTextBox1.Text = "Denizaltýlarda su yüzeyini görmeye yarayan metal boru?";
                 button8.BackColor = Color.Yellow;
             }
             if (soruno == 18)
@@ -502,7 +510,7 @@ namespace Passaparola_Oyunu
             }
             if (soruno == 20)
             {
-                richTextBox1.Text = "Yol kenarýnda bekler herkesi kontrol eder";
+                richTextBox1.Text = "Uygulamalý olarak yapýlan askerlik eðitimi";
                 button8.BackColor = Color.Yellow;
             }
             if (soruno == 21)
